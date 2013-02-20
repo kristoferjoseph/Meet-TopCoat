@@ -66,7 +66,7 @@ body.deck-container {
   background-color: #ff9;
   color: #000;
   font-style: italic;
-  font-weight: bold;
+  font-weight: normal;
 }
 .deck-container del {
   text-decoration: line-through;
@@ -118,7 +118,7 @@ body.deck-container {
   font-size: 85%;
 }
 .deck-container strong, .deck-container th {
-  font-weight: bold;
+  font-weight: normal;
 }
 .deck-container td {
   vertical-align: top;
@@ -199,7 +199,7 @@ body.deck-container {
   font-size: 4.5em;
 }
 .slide h1, .slide .vcenter {
-  font-weight: bold;
+  font-weight: normal;
   text-align: center;
   padding-top: 1em;
   max-height: 100%;
@@ -228,29 +228,29 @@ body.deck-container {
 }
 .slide h2 {
   font-size: 2.25em;
-  font-weight: bold;
+  font-weight: normal;
   padding-top: .5em;
   margin: 0 0 .66666em 0;
   border-bottom: 3px solid #888;
 }
 .slide h3 {
   font-size: 1.4375em;
-  font-weight: bold;
+  font-weight: normal;
   margin-bottom: .30435em;
 }
 .slide h4 {
   font-size: 1.25em;
-  font-weight: bold;
+  font-weight: normal;
   margin-bottom: .25em;
 }
 .slide h5 {
   font-size: 1.125em;
-  font-weight: bold;
+  font-weight: normal;
   margin-bottom: .2222em;
 }
 .slide h6 {
   font-size: 1em;
-  font-weight: bold;
+  font-weight: normal;
 }
 .slide img, .slide iframe, .slide video {
   display: block;
