@@ -1,12 +1,19 @@
 body {
-    font-weight: normal;
     background:#fff url(../img/logo_adobe.png) top right no-repeat fixed;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: normal;
+}
 .deck-container {
     color: #454545;
     background: #e5e9e8;
-  	text-shadow: 0 1px #ffffff;
+    text-shadow: 0 1px #ffffff;
 }
 
 .deck-container .sub-slide {
@@ -35,5 +42,5 @@ body {
     color:#fff;
     font-style: italic;
     background:#288edf;
-	text-shadow: 0 -1px rgba(0, 0, 0, 0.36);
+    text-shadow: 0 -1px rgba(0, 0, 0, 0.36);
 }
