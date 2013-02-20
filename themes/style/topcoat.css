@@ -1,14 +1,9 @@
 body {
-    background:#fff url(../img/logo_adobe.png) top right no-repeat fixed;
+    background: #fff url(../img/logo_adobe.png) top right no-repeat fixed;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-    font-weight: normal;
+.slide h1 {
+    font-weight: 500;
 }
 .deck-container {
     color: #454545;
@@ -31,7 +26,7 @@ h6 {
 }
 
 .deck-container a:hover {
-    color:#288edf;
+    color: #288edf;
 }
 
 .kern {
@@ -39,12 +34,12 @@ h6 {
 }
 
 .deck-container > .product_image {
-    background:#fff;
+    background: #fff;
 }
 
 .deck-container > .quote {
-    color:#fff;
+    color: #fff;
     font-style: italic;
-    background:#288edf;
+    background: #288edf;
     text-shadow: 0 -1px rgba(0, 0, 0, 0.36);
 }
