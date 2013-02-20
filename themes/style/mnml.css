@@ -93,7 +93,7 @@
 .deck-container > .slide > blockquote > cite {
     font-size: .5em;
     font-style: normal;
-    font-weight: bold;
+    font-weight: normal;
     color:888;
 }
 .deck-container > .slide > ::-moz-selection {
