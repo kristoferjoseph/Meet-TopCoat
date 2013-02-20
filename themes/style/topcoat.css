@@ -1,4 +1,5 @@
 body {
+    font-weight: normal;
     background:#fff url(../img/logo_adobe.png) top right no-repeat fixed;
 }
 
@@ -32,7 +33,6 @@ body {
 
 .deck-container > .quote {
     color:#fff;
-    font-weight: 500;
     font-style: italic;
     background:#288edf;
 	text-shadow: 0 -1px rgba(0, 0, 0, 0.36);
